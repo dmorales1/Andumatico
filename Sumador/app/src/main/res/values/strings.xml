@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sumador</string>
+    <!-- Menú -->
+        <string name="action_settings">Acerca de..</string>
+        <string name="action_limpiar">Limpiar</string>
+        <string name="action_salir">Salir</string>
+
+    <!-- Fin Menú -->
+
+    <!-- Pantalla Inicial -->
+    <string name="WD_num1">Número 1</string>
+    <string name="WD_num2">Número 2</string>
+    <string name="HT_numero">Ej: 3243</string>
+    <string name="BT_sumar">Sumar</string>
+    <string name="title_activity_sumar">Sumar</string>
+
+    <!-- Fin Pantalla Inicial -->
+    <string name="hello_world">Hello world!</string>
+
+
+
+</resources>
